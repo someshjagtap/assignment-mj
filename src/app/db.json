@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": "f2e4",
+      "firstName": "Somesh",
+      "lastName": "Jagtap",
+      "email": "rushi@gmail.com",
+      "phoneNumber": "9876543210",
+      "address": "Pine",
+      "city": "pune",
+      "taluka": "pune",
+      "district": "pune",
+      "state": "maha",
+      "nationality": "indian"
+    },
+    {
+      "id": "d046",
+      "firstName": "Maharudra",
+      "lastName": "kamble",
+      "email": "maruti@gmail.com",
+      "phoneNumber": "9876543210",
+      "address": "Satara",
+      "city": "Sillod",
+      "taluka": "sillod",
+      "district": "Sambahi nagar",
+      "state": "maharashtra",
+      "nationality": "indian"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Great post!",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Very informative.",
+      "postId": 2
+    }
+  ],
+  "profile": {
+    "name": "John Doe"
+  }
+}
